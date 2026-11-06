@@ -28,3 +28,9 @@ An additional six-step guided mini-project, built with one editable `index.html`
 The practice project intentionally does **not** fetch real March tournament brackets, collect student identities, persist entries on a server, or offer real multiplayer competitions. Sample entries are in-memory and reset with the preview. The Playground preserves the **source code draft** between steps. The current mini-project checker runs observable browser practice checks only; it does not issue server-verified grades.
 
 Edit the walkthrough in `projects/bracket-challenge/*.md` and the `starter.html` / `example.html` files, and use the shared Playground content build to publish it.
+
+## Classroom component projects
+
+[Class Component Studio](projects/component-studio/01-plan.md) supports a common-component design vote or individually assigned component ownership. Start with a teacher-approved contract, then [build](projects/component-studio/02-build.md), [review](projects/component-studio/03-review.md), and [integrate](projects/component-studio/04-integrate.md). Use the classroom component issue template to record owners and acceptance checks. The independent React Design Lab stays separate.
+
+The bracket project now starts from an empty file; begin with [Create your first HTML file](projects/bracket-challenge/01-scaffold.md). Each step includes a complete cumulative checkpoint.
